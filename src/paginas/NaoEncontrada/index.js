@@ -9,11 +9,17 @@ export default function NaoEncontrada() {
     <>
       <div className={styles.conteudoContainer}>
         <span className={styles.texto404}>404</span>
+        <h1 className={styles.titulo2}>Ops! Pagina non inveni.</h1>
         <h1 className={styles.titulo}>Ops! Página não encontrada.</h1>
-        <p className={styles.paragrafo}>
+        <p className={styles.paragrafo}>Certusne es hoc esse quod quaerebas?</p>
+        <p className={styles.paragrafo2}>
           Tem certeza de que era isso que você estava procurando?
         </p>
         <p className={styles.paragrafo}>
+          Paucis momentis exspecta et paginam denuo onera, vel ad primam paginam
+          revertere.
+        </p>
+        <p className={styles.paragrafo2}>
           Aguarde uns instantes e recarregue a página, ou volte para a página
           inicial.
         </p>

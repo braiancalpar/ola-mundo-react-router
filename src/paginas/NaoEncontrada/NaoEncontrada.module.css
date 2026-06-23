@@ -17,13 +17,24 @@
 
 .titulo {
   font-family: var(--fonte-secundaria);
-  font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: 2rem;
+  opacity: 0.8;
+}
+.titulo2 {
+  font-family: var(--fonte-secundaria);
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
 }
 
 .paragrafo {
   font-size: 1.5rem;
   line-height: 1.75rem;
+}
+.paragrafo2 {
+  font-size: 1rem;
+  line-height: 1.75rem;
+  opacity: 0.8;
 }
 
 .botaoContainer {

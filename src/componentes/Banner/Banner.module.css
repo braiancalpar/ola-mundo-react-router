@@ -38,6 +38,8 @@
   right: 7vw;
   bottom: 2.2vw;
   width: 25vw;
+  opacity: 0.3;
+  border-radius: 10rem;
 }
 
 @media (max-width: 1100px) {
